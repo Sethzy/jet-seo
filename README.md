@@ -9,7 +9,7 @@
 <p align="center">
   <a href="https://github.com/Sethzy/jet-seo">GitHub</a>
   ·
-  <a href="https://jet-seo-search-visibility-engine.vercel.app">Portfolio artifact</a>
+  <a href="https://jet-seo-search-visibility-engine.vercel.app/jet-seo-search-visibility-engine.html">Portfolio artifact</a>
 </p>
 
 ---
